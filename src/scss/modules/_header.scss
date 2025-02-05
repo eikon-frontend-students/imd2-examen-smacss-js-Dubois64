@@ -10,4 +10,17 @@
   color: var(--dark-blue, #005564);
   line-height: normal;
   padding-top: 5%;
+  padding-bottom: 3%;
+}
+
+.is-yellow {
+  background: var(--yellow, #fce757);
+}
+
+.box.change-color {
+  background: var(--yellow-color);
+}
+
+.header-box.is-yellow {
+  background: var(--yellow, #fce757);
 }
