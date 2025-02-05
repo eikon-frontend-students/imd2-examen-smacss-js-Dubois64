@@ -18,12 +18,12 @@ function changeColor() {
 
 box.addEventListener("click", changeColor);
 
-// box 2
+// box 3
 
-var box2 = document.querySelector(".box-2");
+var box3 = document.querySelector(".box-3");
 
 function changeColor() {
-  box2.classList.toggle(".is-blue");
+  box3.classList.toggle(".is-blue");
 }
 
-box2.addEventListener("click", changeColor);
+box3.addEventListener("click", changeColor);
